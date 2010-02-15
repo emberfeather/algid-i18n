@@ -1,3 +1,6 @@
 .project
+build/logs/
+build/settings/user.properties
+dist/
 i18n/config/settings.json.cfm
 i18n/config/version.json.cfm
