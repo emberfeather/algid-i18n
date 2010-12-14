@@ -1,6 +1,8 @@
 {
-	"releaseNotes": "http://github.com/emberfeather/algid-i18n/wiki/Release-Notes",
 	"archive": "http://github.com/emberfeather/algid-i18n/tarball/0.1.0",
+	"key": "i18n",
+	"releaseNotes": "http://github.com/emberfeather/algid-i18n/wiki/Release-Notes",
+	"title": "Internationalization",
 	"URL": "http://github.com/emberfeather/algid-i18n",
 	"version": "0.1.0"
 }
