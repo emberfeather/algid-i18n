@@ -10,6 +10,7 @@
 		]
 	},
 	"key": "i18n",
+	"plugin": "Internationalization",
 	"prerequisites": {
 		"algid": "0.1.1"
 	},
