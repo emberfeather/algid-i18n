@@ -12,7 +12,7 @@
 	"key": "i18n",
 	"plugin": "Internationalization",
 	"prerequisites": {
-		"algid": "0.1.1"
+		"algid": "0.1.3"
 	},
 	"requestSingletons": {
 	},
